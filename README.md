@@ -1,3 +1,3 @@
 # Weather-Dashboard
 
-<img src = "./Assets/weather.PNG>
+<img src = "Assets/weather.PNG">
