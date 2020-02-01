@@ -19,4 +19,5 @@ Forecast for the next 5 days:
 * Max & Min Temperature
 * Humidity
 
-## Deployment https://nunetang.github.io/Weather-Dashboard/
+## Deployment
+https://nunetang.github.io/Weather-Dashboard/
